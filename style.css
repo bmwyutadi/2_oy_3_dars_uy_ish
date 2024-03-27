@@ -1,0 +1,20 @@
+.bolasi-1{
+    flex-direction: row;
+    border-radius: 2px solid red;
+    justify-content: center;
+}
+div{
+width: 400px;
+border-radius: 2px solid red;
+}
+.nevarasi{
+    border-radius: 2px solid red;
+ 
+}
+.bobosi{
+    display: flex;
+}
+img{
+    width: 500px;
+    height: 500px;
+}
